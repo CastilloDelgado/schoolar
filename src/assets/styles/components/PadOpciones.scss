@@ -1,0 +1,20 @@
+.padOpciones{
+    background-color: transparent;
+}
+
+.padOpciones__pad{
+    color: white;
+    height: 220px;
+    border-radius: 20px;
+    margin: 10px;
+    transition: all .5s;
+    box-shadow: 5px 5px 20px gray;
+}
+
+.padOpciones__pad:hover{
+    transform: scale(1.05);
+}
+
+.padOpciones a{
+    color: white;
+}

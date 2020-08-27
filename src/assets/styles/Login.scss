@@ -1,0 +1,36 @@
+.login {
+  height: 100vh;
+}
+
+.login__design {
+  background-size: cover;
+  color: #FFFFFF;
+  height: 100%;
+}
+
+.login__center-container {
+    margin-top: auto;
+    margin-bottom: auto;
+    height: 100%;
+}
+
+.login__design strong {
+    text-transform: uppercase;
+}
+
+.login__header {
+    font-size: 60px;
+    line-height: 60px;
+}
+
+.login__text {
+    font-size: 20px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.login__form {
+  background-color: #e6e6e6;
+  height: 100%;
+}
+

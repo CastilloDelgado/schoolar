@@ -1,0 +1,20 @@
+.listaGeneral {
+  background-color: #f2f2f2;
+  border-radius: 10px;
+  box-shadow: 10px 10px 50px gray;
+}
+
+.my-custom-scrollbar-short {
+  position: relative;
+  height: 300px;
+  overflow: auto;
+}
+
+.my-custom-scrollbar-large {
+  position: relative;
+  height: 500px;
+  overflow: auto;
+}
+.table-wrapper-scroll-y {
+  display: block;
+}
